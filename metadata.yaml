@@ -1,0 +1,28 @@
+_repo: The-Rock-Ahead-A-Novel-Vol-2-of-2_59912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yates, Edmund
+    aliases:
+    - Yates, E. (Edmund)
+    - Yates, Edmund Hodgson
+    birthdate: 1831
+    deathdate: 1894
+    gutenberg_agent_id: '50007'
+    url: http://www.gutenberg.org/2009/agents/50007
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Yates
+description: ''
+gutenberg_issued: '2019-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- GITenberg
+title: 'The Rock Ahead: A Novel. (Vol. 2 of 2)'
+url: http://www.gutenberg.org/ebooks/59912
