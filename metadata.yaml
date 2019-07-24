@@ -1,5 +1,8 @@
 _repo: The-Rock-Ahead-A-Novel-Vol-2-of-2_59912
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yates, Edmund
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50007
     wikipedia: https://en.wikipedia.org/wiki/Edmund_Yates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59912#The-Rock-Ahead-A-Novel-Vol-2-of-2
 gutenberg_issued: '2019-07-15'
 gutenberg_type: Text
 identifiers:
